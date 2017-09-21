@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-doubleclick-floodlight",
+  "name": "@astronomerio/analytics.js-integration-doubleclick-floodlight",
   "description": "The DoubleClick Floodlight analytics.js integration.",
   "version": "1.4.0",
   "keywords": [
